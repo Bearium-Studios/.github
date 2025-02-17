@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to the Official Bearium Studio Org!
+
 <!--
 
 **Here are some ideas to get you started:**
